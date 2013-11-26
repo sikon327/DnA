@@ -1,0 +1,9 @@
+There are two unsorterd arrays of arbitrary length containing integers A and B.  
+Write a function that returns All elements which exist in B or A, but not both
+
+A xor B
+
+ex
+A = [1,91,0,12,34,65,3,87,2342,45,23,97,23,76]
+B = [123,456,6785,23,9898,34,65,23,76,9,45,8,34,1,3,4,7,0,23]
+C = [123,456,6785,9898,9,8,4,7,91,12,87,2342,45,97]
