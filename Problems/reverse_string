@@ -3,3 +3,5 @@ write a function that reverses an arbitrary string
 string ='?ekiL eroM kooL od ot tnaW oG nevE esU ot dediceD sa nevE raF neeB yllaeR enoynA saH'
 
 string ='Yes, of course. Many people have been really far and decided to use even go several times and used even stop on occasion as well. The thing to remember if you really want to do look more like then you must look more like the do you want and especially if the do you more want has decided to use even more go then you are presently doing look more like.'
+
+Don't use the .reverse! or .reverse methods if your language has them.
