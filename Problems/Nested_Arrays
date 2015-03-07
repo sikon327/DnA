@@ -1,4 +1,4 @@
-find the sum of integers in an an arbitrary nested array set that contians either arrays or integers.
+Find the sum of integers in an an arbitrary nested array set that contians either arrays or integers.
 
 array [1,2,3[9,2,[1]],1,19,[1],85]
 

@@ -1,5 +1,0 @@
-If I have a linked list(1) of unordered integers how would I go about inserting into the begining, middle, 
-,end , and nth space(if exists) in that list. Why would I want to do this,  What is the big o of each algorithm, What 
-are three good uses for linked lists.
-
-1: http://en.wikipedia.org/wiki/Linked_list
