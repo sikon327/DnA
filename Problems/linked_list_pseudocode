@@ -1,0 +1,38 @@
+Linked List Insert -- Pseudocode
+~~~~~~~~~
+The elements of the linked list will be represented as ordered pairs.
+
+insert to beginning:
+create a pair [key => key, next => *pointer to beginning of list]
+
+insert to end
+x = beginning of list
+until x[next] points to the terminator,
+x = x[next]
+
+insert to middle:
+/*count elements in list*/
+i = 1
+x = beginning of list
+until x[next] points to the terminator,
+	x = x[next]
+	i++
+end
+i /= 2
+x = beginning
+i times do
+	x = x[next]
+y = new element
+y[next] = x[next]
+x[next] = y
+
+insert to nth space
+i = 1
+x = beginning
+n-1 times do
+	x = x[next]
+end
+y = new element
+y[next] = x[next]
+x[next] = y
+
